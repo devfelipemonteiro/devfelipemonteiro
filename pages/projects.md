@@ -1,17 +1,45 @@
 ---
 layout: page
-title: Research projects
+title: Projects
 permalink: /projects/
 ---
 <br>
-2013 - 2014
-:   **Cloud Detours: Non-Intrusive Code Transformations to Support Automatic Software Adaptation to the Cloud**<br>
-    *This project proposal aims at supporting software developers and organizations in migrating existing software systems to the cloud. To this end, the project will provide a non-intrusive code transformation approach that will enable automatic adaptation of a software system, in a way that the modified system (1) does not violate existing cloud environment constraints; and (2) can take advantage of existing cloud resources and services to offer typical cloud computing benefits, such as low infrastructure overhead and high scalability. The project's software adaptation solutions will be implemented using currently available code interception and transformation technologies.*<br>
-    *Members: Nabor das Chagas Mendonça  / Paulo Henrique Mendes Maia / Michel Araújo Vasconcelos / Felipe Monteiro*<br>
-    *Funding: Microsoft Research*
+tegcommerce
+:   **open source e-commerce platform javascript full stack with reactjs & nodejs**<br>
+    *creator: felipe monteiro and davi monteiro*<br>
+    *2019 - today*
 
-2011 - 2012
-:   **Virtual Environment to Support the Teaching of Programming Logic and Data Structure**<br>
-    *Developed an integrated development environment (IDE) to support programming language and data structure learning in Brazilian universities. The project resulted in the creation of a programming language and a development and visualization environment for the created language.*<br>
-    *Members: Felipe Monteiro / Milton Escossia Barbosa Neto*<br>
-    *Funding: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)*
+tegjs
+:   **teg community**<br>
+    *creator: felipe monteiro and davi monteiro*<br>
+    *2019 - today*
+
+fablabjs
+:   **the largest javascript project lab**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
+
+fortalezajs
+:   **community javascript fortaleza**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
+
+angularjs fortaleza
+:   **community angularjs fortaleza**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
+
+reactjs fortaleza
+:   **community reactjs fortaleza**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
+
+vuejs fortaleza
+:   **community vuejs fortaleza**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
+
+nodejs fortaleza
+:   **community nodejs fortaleza**<br>
+    *creator: felipe monteiro*<br>
+    *2019 - today*
