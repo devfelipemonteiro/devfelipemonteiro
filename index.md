@@ -3,15 +3,12 @@ layout: default
 title: Home
 ---
 
-Felipe Monteiro is currently a Ph.D. student in Computer Science from Lero Irish Software Research Center. His main areas of research are:
-- Software engineering
-- Distributed systems
-- Self-adaptive systems
-- Digital forensics
-
-He is currently a member of the research following groups:
-- [Software Engineering and Distributed Systems Group (GESAD)](http://gesad.uece.br)
-- [Security, Privacy, Adaptation and Requirements Engineering Group at Lero (SPARE)](http://spare.lero.ie)
+Hello! My name is Felipe Monteiro.
+I’m Software Engineer, Designer and Information Technology Lawyer.
+I am an independent software developer and the creator of the tegcommerce, open source e-commerce platform javascript full stack with reactjs & nodejs.
+Most of my work is open source and publicly available on <a href="https://github.com/yyx990803" target="_blank">GitHub</a>.
+I have an <a href="https://devfelipemonteiro.com/blog/" target="_blank">old blog</a> which I no longer actively update - you probably want to follow me on <a href="https://www.linkedin.com/in/devfelipemonteiro/" target="_blank">linkedin.</a>
+{: .text-justify}
 
 Profiles at
 [<i class="fas fa-envelope"></i>](mailto:devfelipemonteiro@gmail.com)
