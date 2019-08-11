@@ -13,7 +13,7 @@ I was a member of the Information Technology Law Commission in Order of Attorney
 I'm a creator of tegcommerce, open source e-commerce platform javascript full stack with reactjs & nodejs, and of the communities tegjs, fablabjs, fortalezajs, angularjs fortaleza, reactjs fortaleza, vuejs fortaleza and nodejs fortaleza.
 I have experience with javascript, typescript, java and kotlin languages.
 I also have experience with angularjs, reactjs, vuejs, nodejs.
-My current interests are open source, linux, e-commerce, finance, scrum, design, blockchain, cryptocurrency, distributed systems, functional programming, data science, cloud computing, internet of things, and javascript full stack development.
+My current interests are open source, linux, web, e-commerce, finance, scrum, design, blockchain, cryptocurrency, distributed systems, functional programming, data science, cloud computing, internet of things, and javascript full stack development.
 Outside, i enjoy meditation, yoga, calisthenics and bike.
 {: .text-justify}
 
