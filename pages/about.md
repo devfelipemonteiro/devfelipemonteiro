@@ -7,7 +7,7 @@ permalink: /about/
 Hello!
 I'm currently Postgraduate student in Software Engineering from University Center Estácio of Ceará, Fortaleza, CE, Brazil.
 I’m is Bachelor of Laws, Legal Science, from University of Fortaleza (UNIFOR), Fortaleza, CE, Brazil.
-I'm Undergraduate student in Social Science, from Federal University of Ceará (UFC), Fortaleza, CE, Brazil
+I'm Undergraduate student in Social Science, from Federal University of Ceará (UFC), Fortaleza, CE, Brazil.
 I'm lawyer regularly registered in Order of Attorneys of Brazil (Portuguese: Ordem dos Advogados do Brasil), Brazilian Bar Association, organization of lawyers responsible for the regulation of the legal profession in the country, subscribed in the sectional of ceará under number 35,708.
 I was a member of the Information Technology Law Commission in Order of Attorneys of Brazil.
 I'm a creator of tegcommerce, open source e-commerce platform javascript full stack with reactjs & nodejs, and of the communities tegjs, fablabjs, fortalezajs, angularjs fortaleza, reactjs fortaleza, vuejs fortaleza and nodejs fortaleza.
