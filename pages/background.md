@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic background
+title: academic background
 permalink: /background/
 ---
 
