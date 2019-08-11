@@ -7,8 +7,8 @@ permalink: /activities/
 <br>
 tegcommerce - Fortaleza, CE, Brazil
 :   *https://tegcommerce.org*<br>
-    *Open source e-commerce platform javascript full stack with reactjs & nodejs*<br>
-    *Stack*<br>
+    Open source e-commerce platform javascript full stack with reactjs & nodejs<br>
+    Stack<br>
     *Git*<br>
     *Npm*<br>
     *Node.js*<br>
@@ -27,17 +27,17 @@ tegcommerce - Fortaleza, CE, Brazil
     *January 2019 - today*<br>
 
 fablabjs - Fortaleza, CE, Brazil
-:   *The largest Javascript Project Lab*
+:   The largest Javascript Project Lab
     **Creator**<br>
     *January 2019 - today*<br>
 
 fortalezajs - Fortaleza, CE, Brazil
-:   *Javascript Community Fortaleza*
+:   Javascript Community Fortaleza
     **Creator**<br>
     *January 2019 - today*<br>
 
 Felipe Monteiro Advocacia - Fortaleza, CE, Brazil
-:   *Information Technology Lawyer*<br>
+:   Information Technology Lawyer<br>
     **Sole Proprietor**<br>
     *May 2018 - today*<br>
     **Information Technology Legal Advice**<br>
@@ -48,7 +48,7 @@ Felipe Monteiro Advocacia - Fortaleza, CE, Brazil
     *May 2018 - today*<br>
 
 Monteiro & Brito Advocacia - Fortaleza, CE, Brazil
-:   *Information Technology Lawyer*<br>
+:   Information Technology Lawyer<br>
     **Proprietor**<br>
     *July 2016 - May 2018*<br>
     **Information Technology Legal Advice**<br>
