@@ -5,10 +5,26 @@ permalink: /activities/
 ---
 
 <br>
-May 2016 - July 2018
-:   **Software engineer** at Secretariat of Agrarian Development, CE, Fortaleza, Brazil<br>
-    *State government of Ceará*<br>
-    *Developed web and mobile applications that has the purpose of managing activities, programs, and projects applied to family agriculture in the state of Ceará, Brazil. Projects that benefit more than 1 million users among farmers and agricultural technicians.*
+tegcommerce
+:   *https://tegcommerce.org*<br>
+    *Open source e-commerce platform javascript full stack with reactjs & nodejs*<br>
+    *Stack*<br>
+    *Git*<br>
+    *Npm*<br>
+    *Node.js*<br>
+    *React.js*<br>
+    **Creator**<br>
+    *January 2019 - today*<br>
+    **Technical leader**<br>
+    *January 2019 - today*<br>
+    **Software Architect**<br>
+    *January 2019 - today*<br>
+    **Software Engineer**<br>
+    *January 2019 - today*<br>
+    **Designer**<br>
+    *January 2019 - today*<br>
+    **Lawyer**<br>
+    *January 2019 - today*<br>
 
 June 2015 - May 2016
 :   **Software engineer and project leader** at Insystem Ltda, CE, Fortaleza, Brazil<br>
