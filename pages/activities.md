@@ -27,12 +27,12 @@ tegcommerce - Fortaleza, CE, Brazil
     *January 2019 - today*<br>
 
 fablabjs - Fortaleza, CE, Brazil
-:   The largest Javascript Project Lab
+:   The largest Javascript Project Lab<br>
     **Creator**<br>
     *January 2019 - today*<br>
 
 fortalezajs - Fortaleza, CE, Brazil
-:   Javascript Community Fortaleza
+:   Javascript Community Fortaleza<br>
     **Creator**<br>
     *January 2019 - today*<br>
 
