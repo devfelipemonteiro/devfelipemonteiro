@@ -1,9 +1,9 @@
 # Site settings
 
 # Setup
-title:               Felipe Monteiro
-tagline:             'Andrade Araújo'
-description:         'Ph.D. student 🎓 <br> Software engineer 💻 <br> Cryptocurrency enthusiast ⛏️'
+title:               Felipe Monteiro Andrade Araújo
+tagline:             'dev'
+description:         '• Software Engineer • Designer • Creator of tegjs • Information Technology Lawyer'
 url:                 https://devfelipemonteiro.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             '' # the subpath of your site, e.g. /blog
 
