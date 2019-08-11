@@ -5,7 +5,7 @@ permalink: /activities/
 ---
 
 <br>
-tegcommerce
+tegcommerce - Fortaleza, CE, Brazil
 :   *https://tegcommerce.org*<br>
     *Open source e-commerce platform javascript full stack with reactjs & nodejs*<br>
     *Stack*<br>
@@ -26,27 +26,34 @@ tegcommerce
     **Lawyer**<br>
     *January 2019 - today*<br>
 
-June 2015 - May 2016
-:   **Software engineer and project leader** at Insystem Ltda, CE, Fortaleza, Brazil<br>
-    *Private company of health sector*<br>
-    *Development and leadership of teams responsible for building web applications (ERPs) to manage public and private hospitals in the North and Northeast region of Brazil. Systems that handlers more than 400 simultaneous users for each hospital.*
+fablabjs - Fortaleza, CE, Brazil
+:   *The largest Javascript Project Lab*
+    **Creator**<br>
+    *January 2019 - today*<br>
 
-June 2013 - March 2014
-:   **Research assistant** at University of Fortaleza (Unifor), CE, Fortaleza, Brazil<br>
-    *Higher education institution*<br>
-    *Developed the Cloud Detours (Non-Intrusive Code Transformations to Support Automatic Software Adaptation to the Cloud) research project, winner of Microsoft Research Software Engineering Foundation Award (in 2013).*
+fortalezajs - Fortaleza, CE, Brazil
+:   *Javascript Community Fortaleza*
+    **Creator**<br>
+    *January 2019 - today*<br>
 
-June de 2012 - June 2013
-:   **Software developer internship** at Dataprev, CE, Fortaleza, Brazil<br>
-    *Federal government of Brazil*<br>
-    *Developed a solution for electronic document management that facilitates the digitalization, storage and retrieval of documents in a standardized format. In addition to providing control and follow-up of document processing, with a guarantee of security throughout the process.*
+Felipe Monteiro Advocacia - Fortaleza, CE, Brazil
+:   *Information Technology Lawyer*<br>
+    **Sole Proprietor**<br>
+    *May 2018 - today*<br>
+    **Information Technology Legal Advice**<br>
+    *May 2018 - today*<br>
+    **Information Technology Legal Consulting**<br>
+    *May 2018 - today*<br>
+    **Information Technology Legal Opinion**<br>
+    *May 2018 - today*<br>
 
-August 2011 - July 2012
-:   **PIBIC scholarship holder** at CNPq<br>
-    *Private company of health sector*<br>
-    *Developed an integrated development environment (IDE) to support programming language and data structure learning in Brazilian universities. The project resulted in the creation of a programming language and a development and visualization environment for the created language.*
-
-October 2011 - June 2012
-:   **Software developer internship** at Insystem Ltda, CE, Fortaleza, Brazil<br>
-    *Private company of health sector*<br>
-    *Developed web applications (ERPs) to perform the management of public hospitals in the city of Fortaleza, CE, Brazil.*
+Monteiro & Brito Advocacia - Fortaleza, CE, Brazil
+:   *Information Technology Lawyer*<br>
+    **Proprietor**<br>
+    *July 2016 - May 2018*<br>
+    **Information Technology Legal Advice**<br>
+    *July 2016 - May 2018*<br>
+    **Information Technology Legal Consulting**<br>
+    *July 2016 - May 2018*<br>
+    **Information Technology Legal Opinion**<br>
+    *July 2016 - May 2018*<br>
