@@ -1,10 +1,10 @@
 # Site settings
 
 # Setup
-title:               Davi Monteiro
-tagline:             'Hanc marginis exiguitas non caperet'
+title:               Felipe Monteiro
+tagline:             'Andrade Araújo'
 description:         'Ph.D. student 🎓 <br> Software engineer 💻 <br> Cryptocurrency enthusiast ⛏️'
-url:                 https://davimonteiro.com.br # the base hostname & protocol for your site, e.g. http://example.com
+url:                 https://devfelipemonteiro.com # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:             '' # the subpath of your site, e.g. /blog
 
 # Pagination Settings
@@ -19,9 +19,9 @@ jekyll_analytics:
 
 # About/contact
 author:
-  name: Davi Monteiro
-  url: https://twitter.com/davimonteirob
-  email: davi.monteiro@lero.ie
+  name: Felipe Monteiro
+  url: https://twitter.com/devfelipemonteiro
+  email: devfelipemonteiro@gmail.com
 
 # Pages
 blog: '/blog'
