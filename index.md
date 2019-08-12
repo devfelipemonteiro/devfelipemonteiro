@@ -4,9 +4,10 @@ title: Home
 ---
 
 Hello! My name is Felipe Monteiro.
-I’m Software Engineer, Designer and Information Technology Lawyer.
-I am an independent software developer and the creator of the tegcommerce, open source e-commerce platform javascript full stack with reactjs & nodejs.
-Most of my work is open source and publicly available on <a href="https://github.com/yyx990803" target="_blank">GitHub</a>.
+I’m Software Engineer posgraduating in Software Engineering at University Center Estácio of Ceará, Fortaleza, CE, Brazil, Bachelor of Laws from the University of Fortaleza (UNIFOR), Fortaleza, CE, Brazil and Information Technology Lawyer.
+I'm an independent software developer and the creator of the tegcommerce, open source e-commerce platform javascript full stack with reactjs & nodejs.
+currently working as Technical Leader, Software Architect, Designer, Software Engineer and Lawyer at tegcommerce.
+Most of my work is open source and publicly available on <a href="https://github.com/devfelipemonteiro" target="_blank">GitHub</a>.
 I have an <a href="https://devfelipemonteiro.com/blog/" target="_blank">old blog</a> which I no longer actively update - you probably want to follow me on <a href="https://www.linkedin.com/in/devfelipemonteiro/" target="_blank">linkedin.</a>
 {: .text-justify}
 

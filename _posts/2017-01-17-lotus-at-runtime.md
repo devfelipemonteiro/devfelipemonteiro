@@ -52,29 +52,20 @@ java -jar travelapp_gui-jfx.jar
 ```
 
 
-### Tele Assistance System (TAS)
+### ...
 
-The Tele Assistance System is a service-based system that provides health support to chronic condition sufferers within the comfort of their homes [1]. In the original concept, the TAS uses a wearable device to take periodical measurements of the patient’s vital parameters and analyze them through medical services. After the analysis, the result may trigger the invocation of an alarm service to call an ambulance, or the invocation of a pharmacy service to deliver a medication to the patient’s house.
+...
 
-The system is composed of the following three abstract services:
-
-- Alarm Service, which triggers the alarm and calls the first-aid squad (ambulance).
-- Medical Analysis Service, which analyses the patient’s vital parameters.
-- Drug Service, which requests a medicine replacement or changes its dosage.
-
-To configure the Lotus@Runtime in the TAS, we have adopted the strategy to monitor new traces of every change in the log file, and created the two following quality of service requirements:
-
-- (P1) the probability of a failure after the alarm service should be less than 20%, represented by reaching state 5 from state 0.  
-- (P2) the probability of a failure after the pharmacy service should be less than 10%, represented by reaching state 11 from state 0.
-
-The probabilistic LTS model, as illustrated in figure below, was created using the LoTuS tool and represents the system behavior with their services. The model is based on the DTMC model presented by [2].
+- ...
+- ...
+- ...
 
 ![alt text](https://raw.githubusercontent.com/devfelipemonteiro/lotus-runtime/master/src/main/resources/images/tas_model.png "Tele Assistance System Model")
 
 
-### Travel Planner Application (TPA)
+### ...
 
-The Travel Planner Application is a service-based system that provides services to search for flights, tourist attractions, accommodation arrangements, and rental cars or bicycles. The application is composed of the following five services:
+...
 
   - Attraction information service, which searches for tourist attractions.
   - Flight reservation service, which searches for available flights.
